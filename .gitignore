@@ -1,0 +1,12 @@
+.DS_Store
+com.apple.DeveloperTools/
+DerivedData/
+build/
+*.xcuserstate
+xcuserdata/
+*.app/
+*.zip
+!releases/Eko-v2.2.zip
+.env
+.env.*
+!.env.example
